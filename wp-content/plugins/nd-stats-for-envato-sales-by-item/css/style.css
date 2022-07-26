@@ -1,0 +1,55 @@
+/* -----------------START STYLE FOR SHORTCODE [nd_esbi_insert_sales] ----------------- */
+
+/*div content of input and debug results description*/
+.nd_esbi_sales_result_container { position: relative; }
+
+/*div on load results*/
+.nd_esbi_sales_preloader_ajax { width: 100%; height: 100%; position: absolute; background: rgba(255,255,255,0.8); cursor: progress; }
+
+/*input button class*/
+.nd_esbi_btn_insert_sales {  }
+
+/*div content of debug results*/
+.nd_esbi_sales_result {  }
+
+/* -----------------START STYLE FOR SHORTCODE [nd_esbi_item_sales] ----------------- */
+
+
+/*div content of select chart and table*/
+.nd_esbi_item_sales { position: relative; }
+
+/*div on load results*/
+.nd_esbi_preloader_ajax { width: 100%; height: 100%; position: absolute; background: rgba(255,255,255,0.8); cursor: progress; }
+
+/*div content of chart and table*/
+.nd_esbi_ajax_result { }
+
+/*start style for select*/
+.nd_esbi_div_select_container {  }
+.nd_esbi_select {  }
+.nd_esbi_label { margin-right: 10px; }
+.nd_esbi_div_select_months { display: inline-block; float: right; margin-right: 20px; }
+.nd_esbi_div_select_years { display: inline-block; float: right; }
+.nd_esbi_div_select_ids { display: inline-block; float: left; }
+/*end*/
+
+/*chart*/
+.nd_esbi_chart { margin: 20px 0px; float: left; }
+
+/*canvas*/
+.nd_esbi_chart canvas { }
+
+/*start table style*/
+.nd_esbi_table {  }
+.nd_esbi_table_id {  } .nd_esbi_table_id_value {  } .nd_esbi_table_id_value span {  }
+.nd_esbi_table_date { width: 25%; } .nd_esbi_table_date_value {  } .nd_esbi_table_date_value span {  }
+.nd_esbi_table_item_id {  } .nd_esbi_table_item_id_value {  } .nd_esbi_table_item_id_value span {  }
+.nd_esbi_table_name { width: 25%; } .nd_esbi_table_name_value { } .nd_esbi_table_name_value span { }
+.nd_esbi_table_sale {  } .nd_esbi_table_sale_value {  } .nd_esbi_table_sale_value span {  }
+.nd_esbi_table_price {  } .nd_esbi_table_price_value {  } .nd_esbi_table_price_value span {  }
+.nd_esbi_table_last_24_h { width: 10%; } .nd_esbi_table_last_24_h_value { } .nd_esbi_table_last_24_h_value span { }
+.nd_esbi_table_last_7_d { width: 10%; } .nd_esbi_table_last_7_d_value { } .nd_esbi_table_last_7_d_value span { }
+.nd_esbi_table_last_30_d { width: 10%; } .nd_esbi_table_last_30_d_value { } .nd_esbi_table_last_30_d_value span { }
+.nd_esbi_table_last_call { width: 10%; } .nd_esbi_table_last_call_value { } .nd_esbi_table_last_call_value span { }
+/*end*/
+
